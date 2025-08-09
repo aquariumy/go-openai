@@ -10,6 +10,9 @@ import (
 // GPT3 Models are designed for text-based tasks. For code-specific
 // tasks, please refer to the Codex series of models.
 const (
+	GPT5                    = "gpt-5"
+	GPT5Mini                = "gpt-5-mini"
+	GPT5Nano                = "gpt-5-nano"
 	O1Mini                  = "o1-mini"
 	O1Mini20240912          = "o1-mini-2024-09-12"
 	O1Preview               = "o1-preview"
